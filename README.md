@@ -46,7 +46,7 @@ They compose: `card-to-contact` → `conversation-connectors` → `follow-up-wri
 
 ## On your phone
 
-The `card-to-contact` → `cold-opener` → `conversation-connectors` loop is being built into a mobile app for conference floors — scan a card, get your opener and talking points in under a minute. Coming soon from [CodeMyVibe](https://codemyvibe.com); watch this repo for the link.
+The `card-to-contact` → `cold-opener` → `conversation-connectors` loop lives as a mobile app for conference floors — scan a card, get your opener and talking points in under a minute: **[Opener](https://opener.shakur-949.workers.dev)** (early preview; runs on sample data while payments and search go live). Built by [CodeMyVibe](https://codemyvibe.com).
 
 ## License
 
